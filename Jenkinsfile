@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'VW Ghia'
+                sh 'gcc main.c -o main'
             }
         }
     }
