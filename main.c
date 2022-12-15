@@ -88,7 +88,7 @@ void compress_input(char *input)
 
 float calculate(char *input)
 {
-	return 5.5;
+	return 6.5;
 	
 	//
 }
